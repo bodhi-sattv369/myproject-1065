@@ -1,1 +1,2 @@
 Hello File2
+Update in file2
